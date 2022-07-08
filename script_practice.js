@@ -1,4 +1,4 @@
-// The situation is as follows: Write the code that generates a test score that is a whole number in the range [0,100] and that returns/prints a message with the corresponding letter grade
+// The situation is as follows: Write the code that generates a test score that is a whole number in the range [0,100] and that returns/prints a message with its corresponding letter grade
 var testGrade = Math.floor(Math.random() * 100);
     console.log(testGrade);
 
